@@ -4,7 +4,7 @@ Make some changes to this file.
 
 Maybe fill this out?
 
-* The best operating system is ______
+* The best operating system is my system
 * The best text editor is VsCode
 * The best kind of phone is _______
 * The best superhero is ___________
